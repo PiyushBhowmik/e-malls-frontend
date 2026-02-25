@@ -25,7 +25,7 @@ export default function Products() {
       price: 2999,
       brand: "Nike",
       rating: 4,
-      image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+      image: "https://believeintherun.com/wp-content/uploads/2023/08/Nike-InfinityRN-4-rock.jpg"
     },
     {
       id: 2,
@@ -33,15 +33,15 @@ export default function Products() {
       price: 15999,
       brand: "Apple",
       rating: 5,
-      image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+      image: "https://helios-i.mashable.com/imagery/articles/06BptNQigdob7ayQu0wyd0G/hero-image.fill.size_1200x1200.v1662651836.jpg"
     },
     {
       id: 3,
       name: "Headphones",
       price: 1999,
-      brand: "Sony",
+      brand: "Beats",
       rating: 3,
-      image: "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd"
+      image: "http://www.bhphotovideo.com/images/images2500x2500/beats_by_dr_dre_900_00183_01_studio_wireless_over_ear_headphone_1037578.jpg"
     }
   ]
 
